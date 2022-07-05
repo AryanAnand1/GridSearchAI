@@ -1,6 +1,6 @@
 # GridSearchAI
 
-To run the file, once you are in the file directory of the program, type: py <programName> <testFileName> <searchMethod>
+To run the file, once you are in the file directory of the program, type py <programName> <testFileName> <searchMethod>
 
 So, to run A Star Search, type: py .\Assignment1.py .\RobotNav-test.txt astar
 
